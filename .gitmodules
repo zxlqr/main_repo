@@ -1,0 +1,3 @@
+[submodule "fibonacci_project"]
+	path = fibonacci_project
+	url = https://github.com/zxlqr/fibonacci_project.git
